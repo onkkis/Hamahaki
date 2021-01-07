@@ -6,5 +6,6 @@ Hamahaki is a simple web scraper that gets data from a couple of websites. On th
 
 Websites that were chosen are Finnish retail stores that don't have specific limitations in robots.txt to limit this project.
 
-Not "complete" as there was a problem evaluating javascript (tried several methods) on some websites. 
 On the current websites, one of them doesn't work on every search word (generic words like "tv" but works on more specific words (like "playstation 4" or "apple iphone").
+
+With libraries used (Jsoup mainly) this was the best that could be done. Headless javascript engine for dynamic contents could be a solution.
